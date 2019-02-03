@@ -1,10 +1,10 @@
 <h2 align="center">Hacker News Clone React/GraphQL</h2>
 
 <p align="center">
-<a href="https://github.com/clintonwoo/hackernews-react-graphql/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/clintonwoo/hackernews-react-graphql.svg?style=social&label=Star"></a> 
-<a href="https://github.com/clintonwoo/hackernews-react-graphql/"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/clintonwoo.svg?style=social&label=Follow"></a> 
-<a href="https://github.com/clintonwoo/hackernews-react-graphql/issues"><img alt="GitHub Issues" src="https://img.shields.io/github/issues/clintonwoo/hackernews-react-graphql.svg"></a> 
-<a href="https://github.com/clintonwoo/hackernews-react-graphql/pulls"><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr-raw/clintonwoo/hackernews-react-graphql.svg"></a>
+<a href="https://github.com/mblode/hackernews/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/mblode/hackernews.svg?style=social&label=Star"></a> 
+<a href="https://github.com/mblode/hackernews/"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/m.svg?styblodele=social&label=Follow"></a> 
+<a href="https://github.com/mblode/hackernews/issues"><img alt="GitHub Issues" src="https://img.shields.io/github/issues/mblode/hackernews.svg"></a> 
+<a href="https://github.com/mblode/hackernews/pulls"><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr-raw/mblode/hackernews.svg"></a>
 </p>
 
 This project is a clone of hacker news rewritten with universal JavaScript, using React and GraphQL. It is intended to be an example or boilerplate to help you structure your projects using production-ready technologies.
@@ -91,7 +91,7 @@ Each directory contains a README.
 
 You can download and run the repo with one command to rule them all:
 
-`git clone https://github.com/clintonwoo/hackernews-react-graphql.git && cd hackernews-react-graphql && npm install && npm run dev`
+`git clone https://github.com/mblode/hackernews.git && cd hackernews && npm install && npm run dev`
 
 ### Setup
 
@@ -136,6 +136,3 @@ NextJS lets us make a powerful static website but you need to consider if you ne
 
 ## Contributing
 Pull requests are welcome. File an issue for ideas, conversation or feedback.
-
-### Community
-After you ★Star this project, follow [@ClintonDAnnolfo](https://twitter.com/clintondannolfo) on Twitter.
